@@ -1,10 +1,3 @@
-package com.projecte.main;
-
-import com.projecte.jaume.AlumneJaume;
-import com.projecte.georgi.AlumneGeorgi;
-import com.projecte.carles.AlumneCarles;
-import com.projecte.gestor.GestorDades;
-
 public class ProgramaPrincipal {
 
     public static void main(String[] args) {
